@@ -2069,6 +2069,10 @@
 .icon-font-awesome:before {
   content: "\f2b4";
 }
+html,
+body {
+  font-family: cursive, "微软雅黑" !important;
+}
 *,
 *::before,
 *::after {
